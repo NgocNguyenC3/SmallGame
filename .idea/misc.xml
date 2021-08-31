@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19722222222222222" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/box_default.xml" value="0.19722222222222222" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/box_game.xml" value="0.2911458333333333" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/box_jump.xml" value="0.19722222222222222" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/box_pick.xml" value="0.19722222222222222" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/box_player.xml" value="0.2911458333333333" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/box_radius_left_default.xml" value="0.2911458333333333" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/box_radius_left_jump.xml" value="0.2911458333333333" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/box_radius_left_run.xml" value="0.2911458333333333" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/box_radius_left_score.xml" value="0.2911458333333333" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/box_radius_right_default.xml" value="0.2911458333333333" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/box_radius_right_jump.xml" value="0.2911458333333333" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/box_radius_right_run.xml" value="0.2911458333333333" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/box_radius_right_score.xml" value="0.2911458333333333" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/box_run.xml" value="0.19722222222222222" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/box_score.xml" value="0.19722222222222222" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19722222222222222" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/match.xml" value="0.2911458333333333" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/starting_room_solid.xml" value="0.2911458333333333" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/drawable/turn.xml" value="0.24722222222222223" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/layout/activity_start.xml" value="0.4" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2755208333333333" />
+        <entry key="..\:/Coding/Code/MandarinSquareCapturing/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2755208333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
