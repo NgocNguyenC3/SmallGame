@@ -90,7 +90,14 @@ class MainActivity : AppCompatActivity() {
             if(reset)
                 restartGame()
         }
+        imgBack.setOnClickListener {
+            backStartActivity()
+        }
 
+    }
+
+    private fun backStartActivity(){
+        finish()
     }
 
     private fun gameWithMachine() {
